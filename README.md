@@ -1,6 +1,6 @@
 # tess-two
 
-A fork of Tesseract Tools for Android 
+A fork of Tesseract Tools for Android. 
 ([tesseract-android-tools][tesseract-android-tools]) that adds some
 additional functions. Tesseract Tools for Android is a set of Android APIs and
 build files for the [Tesseract OCR][tesseract-ocr] and [Leptonica][leptonica] 
